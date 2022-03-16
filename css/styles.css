@@ -1,13 +1,6 @@
 body {
-  font-family: 'Raleway', sans-serif;
   font-family: 'Roboto', sans-serif;
 }
-.page-header {
-  block-size: 150px;
-  writing-mode: horizontal-tb;
-  width: 1600px;
-  height: 80px;
-  left: 0px;
-  top: 0px;
-  background: #ffffff;
+.logo {
+  font-family: 'Raleway', sans-serif;
 }
