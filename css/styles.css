@@ -108,3 +108,34 @@ body {
   text-decoration: none;
   background-color: #212121; /*temp*/
 }
+.filter {
+  background: #f5f4fa;
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+  color: #212121;
+}
+.filter:hover,
+.filter:focus {
+  background: #2196f3;
+
+  font-weight: 500;
+  font-size: 16px;
+  line-height: 1.6;
+  text-align: center;
+  color: #ffffff;
+}
+.portfolio-card-header {
+  font-weight: 700;
+  font-size: 18px;
+  line-height: 2;
+  letter-spacing: 0.06em;
+  color: #212121;
+}
+.portfolio-card-text {
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 1.87;
+  color: #757575;
+}
