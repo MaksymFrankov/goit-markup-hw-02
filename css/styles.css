@@ -59,6 +59,7 @@ body {
   text-align: center;
   letter-spacing: 0.06em;
   color: #ffffff;
+  cursor: pointer;
 }
 .all-lists {
   list-style-type: none;
@@ -71,7 +72,6 @@ body {
   color: #212121;
 }
 .benefits-text {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   color: #757575;
@@ -94,14 +94,12 @@ body {
   color: #212121;
 }
 .team-member-position {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.18;
   text-align: center;
   color: #757575;
 }
 .adds {
-  font-weight: 400;
   font-size: 14px;
   line-height: 1.7;
   color: #ffffff;
@@ -115,6 +113,7 @@ body {
   line-height: 1.6;
   text-align: center;
   color: #212121;
+  cursor: pointer;
 }
 .filter:hover,
 .filter:focus {
@@ -134,8 +133,10 @@ body {
   color: #212121;
 }
 .portfolio-card-text {
-  font-weight: 400;
   font-size: 16px;
   line-height: 1.87;
   color: #757575;
+}
+.portfolio-card-link {
+  text-decoration: none;
 }
