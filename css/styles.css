@@ -85,7 +85,6 @@ body {
   color: var(--gray);
 }
 .hiden-header {
-  display: none;
 }
 .secondary-header {
   font-weight: 700;
