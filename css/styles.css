@@ -71,6 +71,7 @@ body {
 }
 .all-lists {
   list-style-type: none;
+  font-style: normal;
 }
 .benefits-header {
   font-weight: 700;
